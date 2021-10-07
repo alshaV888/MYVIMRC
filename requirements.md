@@ -17,4 +17,4 @@
 - & paste it to your .vimrc
 - save it by **<esc> :wq!**
 
-**voila!!! You are good to go.**
+🥳 ***voila!!! You are good to go.*** 🔥
